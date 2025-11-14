@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mdkawsardev
-- 👀 I’m interested in Web development, Web designing, and WordPress
-- 🌱 I’m currently learning Font-end, Back-end, theme development
+- 👀 I’m a Full-Stack Web developer | Front-end | Back-end | Python & Django
+- 🌱 I’m passionate about clean code & reusable
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Say hello to engage
+- 😄 My portfolio website: https://www.mdkawsardev.com
+- ⚡ Coding is my willpower
 
 <!---
 mdkawsardev/mdkawsardev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
