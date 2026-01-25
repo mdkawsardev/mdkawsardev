@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdkawsardev
-- 👀 I’m a Full-Stack Web developer | Front-end | Back-end | Python & Django
+- 👀 I’m a Full-Stack Web developer | Front-end | Back-end | Python, Django, and PostgreSQL
 - 🌱 I’m passionate about clean code & reusable
 - 💞️ I’m looking to collaborate on ...
 - 📫 Say hello to engage
