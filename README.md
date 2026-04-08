@@ -1,4 +1,4 @@
-!logo[](https://github.com/mdkawsardev/mdkawsardev/blob/main/full-stack-developer.png)
+![logo](https://github.com/mdkawsardev/mdkawsardev/blob/main/full-stack-developer.png)
 <h1>About me</h1>
 
 I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
