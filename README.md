@@ -1,5 +1,5 @@
 ![logo](https://github.com/mdkawsardev/mdkawsardev/blob/main/web-developer.png)
-<h1 style="text-align:center;">About me</h1>
+<h1>About me</h1>
 
 I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
 
