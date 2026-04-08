@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @mdkawsardev
-- 👀 I’m a Full-Stack Web developer | Front-end | Back-end | Python, Django, and PostgreSQL
+About me:
+I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
+
 - 🌱 I’m passionate about clean code & reusable
 - 💞️ I’m looking to collaborate on ...
 - 📫 Say hello to engage
 - 😄 My portfolio website: https://www.mdkawsardev.com
 - ⚡ Coding is my willpower
 
-About me:
-I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
 
 
 ## 🌐 Socials:
