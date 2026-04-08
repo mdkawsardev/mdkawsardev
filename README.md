@@ -1,4 +1,4 @@
-<h1>About me</h1>: <br>
+<h1>About me</h1>
 I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
 
 - 🌱 I’m passionate about clean code & reusable
