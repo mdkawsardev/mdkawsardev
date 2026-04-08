@@ -20,6 +20,8 @@ I am a professional full-stack web developer. I have experience building modern,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkawsardev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdkawsardev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-profile-trophy.vercel.app/?username=mdkawsardev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
