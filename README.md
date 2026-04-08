@@ -6,6 +6,8 @@
 - 😄 My portfolio website: https://www.mdkawsardev.com
 - ⚡ Coding is my willpower
 
+About me:
+I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
 
 
 ## 🌐 Socials:
