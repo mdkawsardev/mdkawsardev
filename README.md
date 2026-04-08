@@ -1,7 +1,9 @@
 !logo[]()
 <h1>About me</h1>
-<div>
+
 I am a professional full-stack web developer. I have experience building modern, user-friendly interfaces and developing dynamic, robust backend systems.
+
+<img align="right" alt="web developer" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300">
 
 - 🌱 I’m passionate about clean code & reusable
 - 💞️ I’m looking to collaborate on ...
@@ -9,8 +11,8 @@ I am a professional full-stack web developer. I have experience building modern,
 - 😄 My portfolio website: https://www.mdkawsardev.com
 - ⚡ Coding is my willpower
 
-<img align="right" alt="web developer" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300">
-</div>
+
+
 
 
 ## 🌐 Socials:
